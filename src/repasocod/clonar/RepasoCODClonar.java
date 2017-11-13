@@ -16,6 +16,8 @@ public class RepasoCODClonar {
         System.out.println("Lo subo a git");
         // COLABORADOR :
         System.out.println("Hola, soy el colaborador.");
+        // PROPIETARIO :
+        System.out.println("Esto lo subo a git por comandos.");
     }
     
 }
