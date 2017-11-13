@@ -14,6 +14,8 @@ public class RepasoCODClonar {
         // Proyecto que voy a subir a Github para clonar.
         System.out.println("Hola mundo");
         System.out.println("Lo subo a git");
+        // COLABORADOR :
+        System.out.println("Hola, soy el colaborador.");
     }
     
 }
